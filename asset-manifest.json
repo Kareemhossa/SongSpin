@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SongSpin%20/static/css/main.f82343ae.css",
+    "main.js": "/SongSpin%20/static/js/main.59745dd5.js",
+    "index.html": "/SongSpin%20/index.html",
+    "main.f82343ae.css.map": "/SongSpin%20/static/css/main.f82343ae.css.map",
+    "main.59745dd5.js.map": "/SongSpin%20/static/js/main.59745dd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82343ae.css",
+    "static/js/main.59745dd5.js"
+  ]
+}
